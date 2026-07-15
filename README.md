@@ -37,5 +37,5 @@ The workbook includes the dashboard plus supporting tabs for the cleaned data an
 
 - The workbook is intended to be opened in Microsoft Excel.
 - The visuals and filters are interactive inside the workbook.
-- If you add generated exports or temporary analysis files later, a `.gitignore` can be added then, but it is not necessary for the current repo contents.
+
 
